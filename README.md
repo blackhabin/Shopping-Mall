@@ -19,8 +19,8 @@ footer
 - 메시지 제목에는 핵심만 작성하고, 본문에 자세한 변경 사항 등을 작성
 
 ex) 
-- [서원준] Feat: Member 클래스 작성
-- [서원준] Fix: MemberService 클래스 버그 수정
+- [채한별] Feat: Member 클래스 작성
+- [채한별] Fix: MemberService 클래스 버그 수정
 
 <br>
 
