@@ -20,6 +20,7 @@ footer
 
 ex) 
 - [채한별] Feat: Member 클래스 작성
+- 
 - [채한별] Fix: MemberService 클래스 버그 수정
 
 <br>
