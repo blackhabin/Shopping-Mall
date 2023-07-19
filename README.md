@@ -3,7 +3,7 @@
 # 술 알고 마시자! 술 추천 및 리뷰 서비스 주절주절
 
 - [jujeol-jujeol.com](https://jujeol-jujeol.com) 에서 이용하실 수 있어요.
-- [주절주절에 대한 더 많고 흥미진진한 이야기들](https://github.com/woowacourse-teams/2021-jujeol-jujeol/wiki)
+- [주랑주랑에 대한 더 많고 흥미진진한 이야기들](https://github.com/blackhabin/Shopping-Mall/wiki)
 
 ---
 
