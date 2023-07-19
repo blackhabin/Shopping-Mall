@@ -9,7 +9,7 @@ body
 footer
 
 <br>
-
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 **커밋 메시지 제목 구조:**
 <br>
 [본인_이름] 타입: 제목
