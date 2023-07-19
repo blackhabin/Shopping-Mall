@@ -44,7 +44,7 @@
 </br>
 
 
-## 📚 Stacks
+## 📚 Stacks </br></br>
 
 ### Languages
 
@@ -52,8 +52,6 @@
    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) </br>
    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) </br>   
    
-
-
 ---
 
 ### Frameworks / Platforms / Libraries
@@ -72,104 +70,29 @@
    ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) </br>
    ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) </br>
 
-
 ---
 
 ### Collaboration    
    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) </br>
    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) </br>
+   ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white) </br>
+   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) </br>
 
 ---
-
-#### DB
-
-
 
 #### Search Engine
 
   ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white) </br>
   ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) </br>
-  ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white) </br>
-  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) </br>
-
-#### Monitoring & Testing
-
 
 </br>
 </br>
 
-## 🌈 Members
+## 🏰 Members
 
 |            [원준](https://github.com/WonjunS)             |            [한별](https://github.com/blackhabin)               |             [우현](https://github.com/kkwh)             |             [선아](https://github.com/seonaK)             |              [세엽](https://github.com/sayyoup)               |             [준혁](https://github.com/jhleekr96)             |             [태욱](https://github.com/ctw6413)              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | <img src="https://avatars.githubusercontent.com/u/93713151?v=4" width=200px alt="_"/> | <img src="https://avatars.githubusercontent.com/u/126144148?v=4" width=200px alt="_"/> | <img src="https://avatars.githubusercontent.com/u/121307297?v=4" width=200px alt="_"/> | <img src="https://avatars.githubusercontent.com/u/134375418?v=4" width=200px alt="_"> | <img src="https://avatars.githubusercontent.com/u/123839647?v=4" width=200px alt="_"> | <img src="https://avatars.githubusercontent.com/u/134566841?v=4" width=200px alt="_"> | <img src="https://avatars.githubusercontent.com/u/83942153?v=4" width=200px alt="_"> |
-|                         🍷 팀장                         |                         🍾 부팀장                        |                           🍺 만화                           |                           🥃 메이플                           |                           🍸 공룡                           |                           🍹 결석                           |                           🍶 E                           |
+|                         🌱 팀장                         |                         🌱 부팀장                        |                           🌵 만화                           |                           🌷 메이플                           |                           🌻 공룡                           |                           🌼 결석                           |                           🌾 E                           |
 
 
-# Git 커밋 메시지 작성 규칙
-
-**커밋 메시지 구조:**
-<br>
-type: subject
-<br>
-body
-<br>
-footer
-
-
-
-**커밋 메시지 제목 구조:**
-<br>
-[본인_이름] 타입: 제목
-
-- 타입은 영어로 작성하고, 첫 글자는 대문자로 작성
-- 메시지 제목은 한글로 작성하고, 필요한 경우에만 영어로 작성
-- 메시지 제목에는 핵심만 작성하고, 본문에 자세한 변경 사항 등을 작성
-
-ex) 
-- [채한별] Feat: Member 클래스 작성
-- 
-- [채한별] Fix: MemberService 클래스 버그 수정
-
-<br>
-
-**커밋 메시지 본문**
-- 본문에는 해당 작업에서 수행했던 상세한 변경 사항(기능 추가/수정/삭제) 등을 기입
-- 본문 내용은 한글로 작성하고, 필요한 경우에만 영어로 작성
-
-
-참조: https://cocoon1787.tistory.com/708
-
-<hr>
-
-# Git Command 사용하기
-GitHub Repository에서 로컬로 프로젝트 불러오기:
-1. cd 파일_경로를 사용해서 프로젝트 작업할 directory로 이동
-2. git init (저장소 생성)
-3. git clone [https://github.com/itwill-project/Shopping-Mall.git] (프로젝트 클론)
-4. Eclipse 실행후 clone한 프로젝트 import
-
-<br>
-
-작업후 프로젝트 commit 하는법:
-1. git status (변경 상태 체크)
-2. git add [file_name] (특정 파일 stage)
-3. git commit -m "커밋_메시지" (커밋)
-4. git push origin [your_branch_name] (원격 저장소로 커밋 업로드)
-5. git pull origin [branch_name] (원격 저장소의 내용 가져와 병합)
-
-<br>
-
-브랜치 관련 커멘드:
-1. git checkout [branch_name] (브랜치 이동)
-2. git branch (브랜치 목록 보기)
-3. git checkout -b [branch_name] (새 브랜치 생성)
-4. git branch -D [branch_name] (브랜치 삭제)
-5. git branch -m [branch_name] (브랜치 이름 변경)
-
-
-참조: 
-<br>
-https://velog.io/@jinuku/Git-%ED%98%91%EC%97%85-%EA%B0%80%EC%9D%B4%EB%93%9C
-<br>
-https://sumini.dev/guide/011-how-to-work-with-git/
