@@ -6,7 +6,7 @@
 
 ---
 
-## 🍻 Intro
+## 🍻 Logo
 
 ![logoJoo2](https://github.com/blackhabin/Shopping-Mall/assets/126144148/67430ae5-2fc7-4eca-949f-b63a809fca00)
 
