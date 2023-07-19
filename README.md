@@ -6,10 +6,11 @@
 
 ---
 
-## 🍻 Logo
+## 🍻 ⎝⍥⎠⎝⍥⎠ 주랑주랑 ⎝⍢⎠⎝⍥⎠
 
-![logoJoo2](https://github.com/blackhabin/Shopping-Mall/assets/126144148/67430ae5-2fc7-4eca-949f-b63a809fca00)
-
+<p align="center">
+  <img width="640" alt="jujeol_og_image" src="https://user-images.githubusercontent.com/126144148/254468485-ae0b7804-64f0-4116-b89e-3bf708e2eca0.png">
+</p>
 
 **당신을 위한 완벽한 전통주!** </br></br> 
 
