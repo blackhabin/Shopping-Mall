@@ -9,6 +9,7 @@ body
 footer
 
 <br>
+- [주랑주랑에 대한 더 많고 흥미진진한 이야기들](https://github.com/blackhabin/Shopping-Mall/wiki)
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
