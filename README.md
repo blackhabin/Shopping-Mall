@@ -8,7 +8,7 @@
 </br></br>
 
 
-## 🍻 ⎝⍥⎠⎝⍥⎠ Inst ⎝⍢⎠⎝⍥⎠
+## 🍻⎝⍥⎠⎝⍥⎠ JOO ⎝⍢⎠⎝⍥⎠
 
 <p align="center">
   <img width="640" alt="jujeol_og_image" src="https://user-images.githubusercontent.com/126144148/254468485-ae0b7804-64f0-4116-b89e-3bf708e2eca0.png">
