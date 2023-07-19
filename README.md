@@ -9,6 +9,10 @@
 ## 🍻 Intro
 
 <p align="center">
+  <img src="![logoJoo2](https://github.com/blackhabin/Shopping-Mall/assets/126144148/fd61d1e1-6889-4ac9-bad1-a6b7f1226572)">
+</p>
+
+<p align="center">
   <img width="640" alt="jujeol_og_image" src="https://user-images.githubusercontent.com/67677561/127765454-d9abca84-093f-46b9-b31c-e73e3ef4090c.png">
 </p>
 <p align="center">
