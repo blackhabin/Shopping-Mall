@@ -1,9 +1,8 @@
 
 
-# 술 알고 마시자! 술 추천 및 리뷰 서비스 주절주절
+# 전통주 쇼핑몰 '주랑주랑' 입니다
 
-- [jujeol-jujeol.com](https://jujeol-jujeol.com) 에서 이용하실 수 있어요.
-- [주랑주랑에 대한 더 많고 흥미진진한 이야기들](https://github.com/blackhabin/Shopping-Mall/wiki)
+- [주랑주랑 개발 과정](https://github.com/blackhabin/Shopping-Mall/wiki)
 
 ---
 
@@ -13,10 +12,14 @@
   <img width="640" alt="jujeol_og_image" src="https://user-images.githubusercontent.com/67677561/127765454-d9abca84-093f-46b9-b31c-e73e3ef4090c.png">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/react-v17.0.2-9cf?logo=react" alt="react" />
-  <img src="https://img.shields.io/badge/spring_boot-v2.5.2-green?logo=springboot"  alt="spring-boot" />
-  <img src="https://img.shields.io/badge/typescript-v4.3.5-blue?logo=typescript" alt="typescript"/>
-  <img src="https://img.shields.io/badge/mysql-v8.0.26-blue?logo=mysql" alt="mysql"/>
+
+   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+   ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+   ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 </p>
 
 
@@ -180,12 +183,6 @@ footer
 - [주절주절에 대한 더 많고 흥미진진한 이야기들](https://github.com/woowacourse-teams/2021-jujeol-jujeol/wiki)
 ---
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 **커밋 메시지 제목 구조:**
 <br>
