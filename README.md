@@ -162,10 +162,10 @@
 
 ## 🌈 Members
 
-|            [한별](https://github.com/blackhabin)             |            [원준](https://github.com/WonjunS)             |             [우현](https://github.com/kkwh)             |             [선아](https://github.com/seonaK)             |              [세엽](https://github.com/sayyoup)               |             [준혁](https://github.com/jhleekr96)             |             [태욱](https://github.com/ctw6413)              |
+|            [원준](https://github.com/WonjunS)             |            [한별](https://github.com/blackhabin)               |             [우현](https://github.com/kkwh)             |             [선아](https://github.com/seonaK)             |              [세엽](https://github.com/sayyoup)               |             [준혁](https://github.com/jhleekr96)             |             [태욱](https://github.com/ctw6413)              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="https://avatars.githubusercontent.com/u/126144148?v=4" width=200px alt="_"/> | <img src="https://avatars.githubusercontent.com/u/93713151?v=4" width=200px alt="_"/> | <img src="https://avatars.githubusercontent.com/u/121307297?v=4" width=200px alt="_"/> | <img src="https://avatars.githubusercontent.com/u/134375418?v=4" width=200px alt="_"> | <img src="https://avatars.githubusercontent.com/u/123839647?v=4" width=200px alt="_"> | <img src="https://avatars.githubusercontent.com/u/134566841?v=4" width=200px alt="_"> | <img src="https://avatars.githubusercontent.com/u/83942153?v=4" width=200px alt="_"> |
-|                         🍷 프론트엔드                         |                         🍾 프론트엔드                         |                           🍺 백엔드                           |                           🥃 백엔드                           |                           🍸 백엔드                           |                           🍹 백엔드                           |                           🍶 백엔드                           |
+| <img src="https://avatars.githubusercontent.com/u/93713151?v=4" width=200px alt="_"/> | <img src="https://avatars.githubusercontent.com/u/126144148?v=4" width=200px alt="_"/> | <img src="https://avatars.githubusercontent.com/u/121307297?v=4" width=200px alt="_"/> | <img src="https://avatars.githubusercontent.com/u/134375418?v=4" width=200px alt="_"> | <img src="https://avatars.githubusercontent.com/u/123839647?v=4" width=200px alt="_"> | <img src="https://avatars.githubusercontent.com/u/134566841?v=4" width=200px alt="_"> | <img src="https://avatars.githubusercontent.com/u/83942153?v=4" width=200px alt="_"> |
+|                         🍷 팀장                         |                         🍾 부팀장                        |                           🍺 만화                           |                           🥃 메이플                           |                           🍸 공룡                           |                           🍹 결석                           |                           🍶 E                           |
 
 
 # Git 커밋 메시지 작성 규칙
@@ -178,11 +178,6 @@ body
 <br>
 footer
 
-<br>
-# 술 알고 마시자! 술 추천 및 리뷰 서비스 주절주절
-- [주랑주랑에 대한 더 많고 흥미진진한 이야기들](https://github.com/blackhabin/Shopping-Mall/wiki)
-- [주절주절에 대한 더 많고 흥미진진한 이야기들](https://github.com/woowacourse-teams/2021-jujeol-jujeol/wiki)
----
 
 
 **커밋 메시지 제목 구조:**
