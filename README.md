@@ -36,7 +36,7 @@
 
 |                   💖 맞춤 술 추천 (로그인O)                   |                   👍 베스트 추천 (로그인X)                    |                         🌟 일괄 평가                          |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="![a1](https://github.com/blackhabin/Shopping-Mall/assets/126144148/e0bf4907-8c05-4dc6-907e-84efa80542f3.png)" alt="유저_맞춤_술_추천" width=80%> | <img src="https://user-images.githubusercontent.com/52682603/138669772-e0481753-3948-45a9-a3d5-b82c12f68cb7.gif" alt="베스트_추천" width=80%> | <img src="https://user-images.githubusercontent.com/52682603/138669812-56e1b460-0950-4915-8cc0-a695057a822c.gif" alt="일괄_평가" width=80%> |
+| <img src="[![a1](https://github.com/blackhabin/Shopping-Mall/assets/126144148/e0bf4907-8c05-4dc6-907e-84efa80542f3.png)](https://user-images.githubusercontent.com/126144148/254486162-e0bf4907-8c05-4dc6-907e-84efa80542f3.JPG)" alt="유저_맞춤_술_추천" width=80%> | <img src="https://user-images.githubusercontent.com/52682603/138669772-e0481753-3948-45a9-a3d5-b82c12f68cb7.gif" alt="베스트_추천" width=80%> | <img src="https://user-images.githubusercontent.com/52682603/138669812-56e1b460-0950-4915-8cc0-a695057a822c.gif" alt="일괄_평가" width=80%> |
 
 |                         🧐 상세페이지                         |                  👩‍💻 선호도 입력과 리뷰 작성                  |                         🧑‍💻 리뷰 수정                         |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
