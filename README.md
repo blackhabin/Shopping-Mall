@@ -8,7 +8,7 @@
 
 ## 🍻 Intro
 <p align="center">
-![logoJoo2](https://github.com/blackhabin/Shopping-Mall/assets/126144148/67430ae5-2fc7-4eca-949f-b63a809fca00.png)
+![logoJoo2](https://github.com/blackhabin/Shopping-Mall/assets/126144148/67430ae5-2fc7-4eca-949f-b63a809fca00)
 </p>
 
 
