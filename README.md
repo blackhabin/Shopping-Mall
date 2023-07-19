@@ -11,18 +11,6 @@
 ![logoJoo2](https://github.com/blackhabin/Shopping-Mall/assets/126144148/67430ae5-2fc7-4eca-949f-b63a809fca00)
 
 
-
-<p align="center">
-
-   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-   ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-   ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-</p>
-
 **당신을 위한 완벽한 전통주!** </br></br> 
 
  전국 각지의 술들이 궁금하지 않으신가요? </br></br> 편의점에는 없어요. 마트에도 없습니다. </br></br> *색다른 술이 먹고 싶은데..*, *특별한 날에 뭐 먹지?* 
@@ -32,7 +20,7 @@
 </br>
 </br>
 
-## 🚀 Demo
+## 🖥 미리보기(우리껄로 수정해야해!!!!!!!!!!!!!!!!!)
 
 |                   💖 맞춤 술 추천 (로그인O)                   |                   👍 베스트 추천 (로그인X)                    |                         🌟 일괄 평가                          |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -52,22 +40,31 @@
 </br>
 </br>
 
-## 👑 Recommendation Algorithm
 
-<p algin="center">
-	<img src="https://user-images.githubusercontent.com/52682603/138669346-4e85a80c-9615-40c2-9eff-8173a0d2cf25.png" alt="recommend_algorithm" width=50%>  
+## 📚 Stacks
+
+<p align="center">
+
+   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+   ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+   ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+   ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+   ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+   ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
+   ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+   ![Chrome OS](https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white)
+   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+   ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
+   ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+
 </p>
 
-주절주절은 [직접 구현한 **협업 필터링 알고리즘**](https://jujeol-jujeol.github.io/2021/10/24/%EC%95%84%EC%9D%B4%ED%85%9C_%EA%B8%B0%EB%B0%98_%EC%B6%94%EC%B2%9C_Slope_One/)으로 사용자 맞춤형 서비스를 제공해요. 
-
-주절주절은 초기에 **사용자 기반**의 알고리즘을 구성했어요. 이는 한 사용자가 많은 선호도를 남겨야 유의미한 알고리즘이죠.</br>
-하지만 **슬로프 원 알고리즘**을 이용해 **아이템 기반** 필터링 방식으로 변경하여 선호도를 적게 남기더라도 즉시 기능을 누릴 수 있게 되었답니다!
-</br>
-</br>
-
-## ⚡️ Skills
-
-더 많은 기술 이야기는 [조잘조잘](https://jujeol-jujeol.github.io/)에서 확인하세요.
 
 ### Front-end
 
