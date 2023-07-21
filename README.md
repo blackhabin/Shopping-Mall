@@ -2,7 +2,7 @@
 
 # 전통주 쇼핑몰 '주랑주랑' 입니다
 
-- [주랑주랑 개발 과정](https://github.com/blackhabin/Shopping-Mall/wiki)
+- [주랑주랑 개발 과정](https://github.com/blackhabin/Shopping-Mall/wiki/개발과정)
 
 ---
 </br></br>
