@@ -26,7 +26,7 @@
 ## 🖥 미리보기(우리껄로 수정해야해!!!!!!!!!!!!!!!!!)
 
 |                         키워드검색                          |                         세부검색                         |                         삭제화면                          |
-| <img src="https://user-images.githubusercontent.com/126144148/257471715-de67f77a-885d-417a-824e-7147d792662d.png" alt="키워드검색" width=40%> | <img src="https://user-images.githubusercontent.com/126144148/254513210-b92d40e3-33ab-4dd6-9f1a-58f21bfdde0a.png" alt="세부 검색" width=80%> | <img src="https://user-images.githubusercontent.com/126144148/254513202-1bf7aee4-90c4-4008-9cfc-3c729da97003.png" alt="삭제화면" width=80%> |
+| <img src="https://user-images.githubusercontent.com/126144148/257471715-de67f77a-885d-417a-824e-7147d792662d.png" alt="키워드검색" width=40%> | <img src="https://user-images.githubusercontent.com/126144148/254513210-b92d40e3-33ab-4dd6-9f1a-58f21bfdde0a.png" alt="세부 검색" width=40%> | <img src="https://user-images.githubusercontent.com/126144148/254513202-1bf7aee4-90c4-4008-9cfc-3c729da97003.png" alt="삭제화면" width=40%> |
 
 </br>
 
