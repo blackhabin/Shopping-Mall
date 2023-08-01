@@ -78,74 +78,59 @@
         </li>
         <br/>
         <li>
-            <strong>자유게시판</strong>
+            <strong>문의 디테일</strong>
             <ul>
-                <li>기본적인 CRUD</li>
-                <li>댓글, 대댓글 CRUD, 비공개 여부 설정가능</li>
-                <li>작성자 아이디 마스킹처리</li>
-                <li>페이징</li>
+                <li>문의 내용 확인</li>
+                <li>문의 수정(변경/삭제)/li>
                 <li>
-                    <img src="https://user-images.githubusercontent.com/89326946/150129443-4f43da01-8ed8-450f-87b6-c6c994d6e3d4.png">
-                </li>
-                <li>
-                    <img src="https://user-images.githubusercontent.com/89326946/150262071-b6dbc5ee-1fb8-46b5-85bc-457b2a449e39.png">
-                </li>
-            </ul>
-        </li>
-        <br/>
-        <br/>
-        <li>
-            <strong>상품, 상품리뷰, 상품 QnA</strong>
-            <ul>
-                <li>수량 변경 가능</li>
-                <li>리뷰 : 상품 구매시에만 리뷰 작성 가능, 정렬 기능</li>
-                <li>QnA : 비공개여부 선택 가능, 관리자만 답글 가능</li>
-                <li>일반 페이징, noOffset 페이징</li>
-                <li>
-                    <img src="https://user-images.githubusercontent.com/89326946/150293680-55db76f0-9ec8-49d9-bef9-94cfbf829d99.png">
-                </li>
-                <li>
-                    <img src="https://user-images.githubusercontent.com/89326946/150261169-4ba3f6dc-fee5-4d9c-b6d9-e4d894225d3f.png">
-                </li>
-                <li>
-                    <img src="https://user-images.githubusercontent.com/89326946/150261150-4780b106-e5df-49d8-89a4-d5f920f0b506.png">
-                </li>
-            </ul>
-        </li>
-        <br/>
-        <br/>
-        <li>
-            <strong>장바구니</strong>
-            <ul>
-                <li>개별 혹은 선택주문</li>
-                <li>비동기 수량변경, 삭제 가능</li>
-                <li>
-                    <img src="https://user-images.githubusercontent.com/89326946/150293781-519e646c-c017-4f9a-aaf9-202f531c702f.png">
+                    <img src="https://user-images.githubusercontent.com/126144148/257488029-5bda848f-ccaf-43db-86f9-a7d412e0819e.png">
                 </li>
             </ul>
         </li>
         <br/>
         <li>
-            <strong>주문 정보</strong>
+            <strong>게시글 리스트</strong>
             <ul>
-                <li>주문한 상품에 대한 기본 정보들</li>
-                <li>가상계좌 구매시 유효기간과, 계좌번호도 표시</li>
+                <li>게시글 리스트 보기</li>
+                <li>페이징 처리</li>
+                <li>공지/이벤트 구분</li>
                 <li>
-                    <img src="https://user-images.githubusercontent.com/89326946/150293700-fbaec84b-3cc9-4fa2-9c59-cecd61f2a756.png">
+                    <img src="https://user-images.githubusercontent.com/126144148/257488380-7f72eac5-ed54-45ec-8a52-8614314d3c4b.png">
                 </li>
+            </ul>
+        </li>
+        <br/>
+        <li>
+            <strong>게시글 디테일</strong>
+            <ul>
+                <li>게시글/공지 정보 확인</li>
+                <li>게시글 내용</li>
                 <li>
-                    <img src="https://user-images.githubusercontent.com/89326946/150294626-c3d1b4cf-1517-4e89-bfca-524b3e6dcb37.png">
+                    <img src="https://user-images.githubusercontent.com/126144148/257488895-ce225b62-6eed-4697-b92a-05d5fc71b2f7.png">
+                </li>
+            </ul>
+        </li>
+        <br/>
+        <li>
+            <strong>상품 리스트</strong>
+            <ul>
+                <li>카테고리별 상품보기</li>
+                <li>제제품 검색</li>
+                <li>상세 검색</li>
+                <li>제풀 클릭시 이동</li>
+                <li>
+                    <img src="https://user-images.githubusercontent.com/126144148/257489263-89338e09-27f1-48e9-b3ee-92c59800d082.png">
                 </li>
             </ul>
         </li>
         <li>
-            <strong>상품 주문</strong>
+            <strong>상품 디테일</strong>
             <ul>
-                <li>구매하려는 상품 목록 표시</li>
-                <li>구매 클릭시 서버에서 배송정보 유효성검사후 결제 진행</li>
-                <li>카카오페이, 가상계좌 결제 가능</li>
+                <li>제품 옵션 선택</li>
+                <li>제품 장바구니 담기</li>
+                <li>스크롤/클릭에 따른 변경</li>
                 <li>
-                    <img src="https://user-images.githubusercontent.com/89326946/150293743-7034ca49-43d5-41c5-8a3d-eaf673efef3d.png">
+                    <img src="https://user-images.githubusercontent.com/126144148/257489486-2ec58325-2fcf-4f96-9ea7-477be1250893.png">
                 </li>
             </ul>
         </li>
@@ -161,33 +146,58 @@
         </li>
         <br/>
         <li>
-            <strong>관리자 페이지 주문목록</strong>
+            <strong>장바구니창 페이지</strong>
             <ul>
-                <li>주문상태 변경 기능</li>
-                <li>동적 검색</li>
+                <li>추가된 상품들</li>
+                <li>수량 변경 버튼</li>
+                <li>개별 삭제</li>
+                <li>전체 삭제</li>
+                <li>비용 예산</li>
+                <li>주문하기로 이동</li>
                 <li>
-                    <img src="https://user-images.githubusercontent.com/89326946/150129493-4f176fcb-e4a3-4b90-a39f-5d5a3a83a6d6.png">
+                    <img src="https://user-images.githubusercontent.com/126144148/257489720-0cc82300-b4d3-49c0-a29c-b82bc1c64d47.png">
                 </li>
             </ul>
         </li>
         <br/>
         <li>
-            <strong>관리자 페이지 상품배송</strong>
+            <strong>주문페이지</strong>
             <ul>
-                <li>입금 완료된 주문만 표시</li>
-                <li>운송장 입력후 배송시 해당 주문 배송상태 변경</li>
+                <li>상품 정보</li>
+                <li>주문자 정보</li>
+                <li>배송지 정보/동일입력 가능</li>
+                <li>포인트 사용</li>
+                <li>결제 옵션 선택</li>
+                <li>최종 결제 정보 확인</li>
+                <li>결제하기</li>
                 <li>
-                    <img src="https://user-images.githubusercontent.com/89326946/150293811-24e6beaa-9b10-430d-9dbe-d4c64ea7fa51.png">
+                    <img src="https://user-images.githubusercontent.com/126144148/257490097-ab8af651-9f28-44ce-a4d5-d635120e3d09.png">
                 </li>
             </ul>
         </li>
         <br/>
         <li>
-            <strong>관리자 페이지 상품 목록</strong>
+            <strong>주문 내역</strong>
             <ul>
-                <li>상품 동적 검색 및 삭제</li>
+                <li>주문 정보/취소 내역</li>
+                <li>날짜 정렬/카테고리별 정렬</li>
+                <li>주문상태</li>
+                <li>배송조회</li>
+                <li>구매취소</li>
+                <li>구매확정/후기작성</li>
                 <li>
-                    <img src="https://user-images.githubusercontent.com/89326946/150293851-7689a098-f254-4fbd-b6ed-b31fd2d0a299.png">
+                    <img src="https://user-images.githubusercontent.com/126144148/257490409-700c6a61-a02f-4e87-ba13-3ec1f6a650b0.png">
+                </li>
+            </ul>
+        </li>
+        <br/>
+        <li>
+            <strong>결제</strong>
+            <ul>
+                <li>결제 정보</li>
+                <li>결제하기 버튼</li>
+                <li>
+                    <img src="https://user-images.githubusercontent.com/126144148/257490626-84b3f2e5-51f5-42d6-b95c-50e3bb0ae737.png">
                 </li>
             </ul>
         </li>
