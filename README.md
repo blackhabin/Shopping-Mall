@@ -136,16 +136,6 @@
         </li>
         <br/>
         <li>
-            <strong>관리자 페이지 메인</strong>
-            <ul>
-                <li>최근 가입한 유저목록, 주문 목록 조회</li>
-                <li>
-                    <img src="https://user-images.githubusercontent.com/89326946/150129475-eaef4772-64d6-42bb-9f7f-9cd55950756b.png">
-                </li>
-            </ul>
-        </li>
-        <br/>
-        <li>
             <strong>장바구니창 페이지</strong>
             <ul>
                 <li>추가된 상품들</li>
@@ -201,6 +191,40 @@
                 </li>
             </ul>
         </li>
+        <li>
+              <strong>리뷰 리스트</strong>
+              <ul>
+                  <li>리뷰 내용 보기</li>
+                  <li>목록으로 돌아가기</li>
+                  <li>
+                      <img src="https://user-images.githubusercontent.com/126144148/257492323-f678e210-786a-4106-8155-dfbba9ab1f31.png">
+                  </li>
+              </ul>
+          </li>
+          <br/>
+          <li>
+                  <strong>리뷰 작성</strong>
+                  <ul>
+                      <li>별점 주기</li>
+                      <li>등록/취소</li>
+                      <li>
+                          <img src="https://user-images.githubusercontent.com/126144148/257492600-a203f24a-9eba-4287-b3d6-26cbe993b65c.png">
+                      </li>
+                  </ul>
+              </li>
+              <br/>
+            <li>
+                  <strong>관리자 페이지</strong>
+                  <ul>
+                      <li>메인 페이지로 이동</li>
+                      <li>날짜 정렬/카테고리별 정렬</li>
+                      <li>목록 보기</li>
+                      <li>
+                          <img src="https://user-images.githubusercontent.com/126144148/257494242-eabbecda-fd4a-44f6-b85c-a1789a1213fc.png">
+                      </li>
+                  </ul>
+              </li>
+              <br/>
     </ul>
 </div>
 
