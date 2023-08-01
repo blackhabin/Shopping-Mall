@@ -54,25 +54,25 @@
         </li>
         <br/>
         <li>
-            <strong>로그인</strong>
+            <strong>내정보 수정</strong>
             <ul>
-                <li>카카오 로그인 구현</li>
-                <li>프론트, 서버 모두 유효성 검사</li>
+                <li>내정보 확인</li>
+                <li>비밀번호 변경</li>
+                <li>회원 탈퇴</li>              
                 <li>
-                    <img src="https://user-images.githubusercontent.com/89326946/150129246-d77023e6-d76b-4950-af5b-b0f1523dd198.png">
+                    <img src="https://user-images.githubusercontent.com/126144148/257487561-2392ae33-88b3-453c-a0db-0183fd295ecf.png">
                 </li>
             </ul>
         </li>
         <br/>
         <li>
-            <strong>MyPage</strong>
+            <strong>문의 리스트</strong>
             <ul>
-                <li>주문, QnA버튼 클릭시 비동기로 내용 가져오게끔 구현</li>
-                <li>회원탈퇴 기능</li>
-                <li>주문상세보기 클릭시 해당 주문 관련 정보들 표시</li>
-                <li>더보기 버튼 (noOffset 페이징)</li>
+                <li>문의 내역 확인</li>
+                <li>문의 작성</li>
+                <li>문의 보기</li>
                 <li>
-                    <img src="https://user-images.githubusercontent.com/89326946/150294134-9774bb46-ac1d-49c5-b94f-6f51b576bd9d.png">
+                    <img src="https://user-images.githubusercontent.com/126144148/257487718-f01cb106-f690-4ea1-bcdc-36d4cc12a55c.png">
                 </li>
             </ul>
         </li>
