@@ -27,7 +27,7 @@
 
 |                         Main화면                           |                         선수정보                         |                         전체목록                         |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="https://user-images.githubusercontent.com/126144148/257471715-de67f77a-885d-417a-824e-7147d792662d.png" alt="Main화면" width="320"> | <img src="https://user-images.githubusercontent.com/126144148/254513227-fac6f9c9-91b3-474c-bb18-f2acc166b1cb.png" alt="선수정보" width=80%> | <img src="https://user-images.githubusercontent.com/126144148/254513224-f4d49128-9de0-4d53-aa2e-2a69eb319b8b.png" alt="전체목록" width=80%> |
+| <img src="https://user-images.githubusercontent.com/126144148/257471715-de67f77a-885d-417a-824e-7147d792662d.png" alt="Main화면" width="480"> | <img src="https://user-images.githubusercontent.com/126144148/254513227-fac6f9c9-91b3-474c-bb18-f2acc166b1cb.png" alt="선수정보" width=80%> | <img src="https://user-images.githubusercontent.com/126144148/254513224-f4d49128-9de0-4d53-aa2e-2a69eb319b8b.png" alt="전체목록" width=80%> |
 
 |                         상세페이지                         |                         스탯입력                         |                         수정화면                         |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
