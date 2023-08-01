@@ -30,8 +30,10 @@
         <li>
             <strong>메인 페이지</strong>
             <ul>
-                <li>카테고리별 상품 조회 가능</li>
-                <li>더보기 버튼 (noOffset 페이징)</li>
+                <li>홈으로 이동</li>
+                <li>로그인/회원가입</li>
+                <li>배너클릭시 이벤트창 이동</li>
+                <li>상품페이지로 이동</li>
                 <li>
                     <img src="https://user-images.githubusercontent.com/126144148/257471715-de67f77a-885d-417a-824e-7147d792662d.png">
                 </li>
@@ -39,12 +41,14 @@
         </li>
         <br/>
         <li>
-            <strong>회원가입</strong>
+            <strong>로그인</strong>
             <ul>
-                <li>문자인증 기능, 아이디 중복검사</li>
-                <li>프론트, 서버 모두 유효성 검사</li>
+                <li>입력창</li>
+                <li>로그인 성공/실패</li>
+                <li>회원가입</li>
+                <li>아이디 찾기/비밀번호 찾기</li>
                 <li>
-                    <img src="https://user-images.githubusercontent.com/89326946/150129225-9668ed2b-21ea-4f2d-87f5-d25ceeda701f.png ">
+                    <img src="https://user-images.githubusercontent.com/126144148/257481908-525d8b35-173a-4f70-87a2-805b24cdb7d0.png">
                 </li>
             </ul>
         </li>
