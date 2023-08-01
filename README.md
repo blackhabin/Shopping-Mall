@@ -25,9 +25,8 @@
 
 ## 🖥 미리보기(우리껄로 수정해야해!!!!!!!!!!!!!!!!!)
 
-|                              💖 맞춤 술 추천 (로그인O)                       |                                      👍 베스트 추천 (로그인X)                |
-| :--------------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
-| <img src="https://user-images.githubusercontent.com/126144148/257471715-de67f77a-885d-417a-824e-7147d792662d.png" alt="메인화면" width=40%> | <img src="https://user-images.githubusercontent.com/52682603/138669772-e0481753-3948-45a9-a3d5-b82c12f68cb7.gif" alt="베스트_추천" width=30%> | <img src="https://user-images.githubusercontent.com/52682603/138669812-56e1b460-0950-4915-8cc0-a695057a822c.gif" alt="일괄_평가" width=30%> |
+|                         키워드검색                          |                         세부검색                         |                         삭제화면                          |
+| <img src="https://user-images.githubusercontent.com/126144148/257471715-de67f77a-885d-417a-824e-7147d792662d.png" alt="키워드검색" width=40%> | <img src="https://user-images.githubusercontent.com/126144148/254513210-b92d40e3-33ab-4dd6-9f1a-58f21bfdde0a.png" alt="세부 검색" width=80%> | <img src="https://user-images.githubusercontent.com/126144148/254513202-1bf7aee4-90c4-4008-9cfc-3c729da97003.png" alt="삭제화면" width=80%> |
 
 </br>
 
