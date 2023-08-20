@@ -81,7 +81,7 @@
             <strong>문의 디테일</strong>
             <ul>
                 <li>문의 내용 확인</li>
-                <li>문의 수정(변경/삭제)/li>
+                <li>문의 수정(변경/삭제)</li>
                 <li>
                     <img src="https://user-images.githubusercontent.com/126144148/257488029-5bda848f-ccaf-43db-86f9-a7d412e0819e.png">
                 </li>
@@ -117,7 +117,7 @@
                 <li>카테고리별 상품보기</li>
                 <li>제제품 검색</li>
                 <li>상세 검색</li>
-                <li>제풀 클릭시 이동</li>
+                <li>제품 클릭시 이동</li>
                 <li>
                     <img src="https://user-images.githubusercontent.com/126144148/257489263-89338e09-27f1-48e9-b3ee-92c59800d082.png">
                 </li>
@@ -138,11 +138,10 @@
         <li>
             <strong>장바구니창 페이지</strong>
             <ul>
-                <li>추가된 상품들</li>
-                <li>수량 변경 버튼</li>
+                <li>추가된 상품들 수량 변경 버튼</li>
                 <li>개별 삭제</li>
                 <li>전체 삭제</li>
-                <li>비용 예산</li>
+                <li>예상 금액</li>
                 <li>주문하기로 이동</li>
                 <li>
                     <img src="https://user-images.githubusercontent.com/126144148/257489720-0cc82300-b4d3-49c0-a29c-b82bc1c64d47.png">
