@@ -36,7 +36,7 @@
 ### Frameworks / Platforms / Libraries / BuildTool
    ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) </br>
    ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) </br>
-   ![Maven](https://img.shields.io/badge/maven-02303A?style=for-the-badge&logo=gradle&logoColor=white) </br>
+   ![Maven](https://img.shields.io/badge/maven-02303A?style=for-the-badge&logo=maven&logoColor=white) </br>
 ---
 
 ### Editors
